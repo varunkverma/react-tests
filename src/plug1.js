@@ -3,7 +3,7 @@ import React from 'react'
 const Plug1 = () => {
     return (
         <div className="plug1">
-            MAKE CONTAINER BIGGER
+            MAKE ME BIGGER
         </div>
     )
 }

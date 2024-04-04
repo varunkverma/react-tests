@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import ParentComponent from './parent-components.js'
+import ParentComponent from './parent-components'
 
 function App() {
   return (

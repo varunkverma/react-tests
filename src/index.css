@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.container {
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:10px;
+  flex-direction: column;
+  background: orange;
+}
+
+.plug1{
+  height: 100px;
+  width: 100px;
+  background: blue;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+.plug2{
+  height: 100px;
+  width: 100px;
+  background: green;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+.actionBtn {
+  height: 40px;
+  width: 80px;
+}
